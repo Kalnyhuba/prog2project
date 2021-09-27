@@ -9,6 +9,8 @@ A Blackjack legfontosabb szabálya, hogy a játékmenet során a játékosnál l
 
 A Blackjack-et a hagyományos és online kaszinókban maximum 8 pakli, 52 lapos francia kártyával játsszák. Az osztónak minden esetben meg kell állnia 17-nél, ezt nevezzük Soft 17-nek.
 
+#### A lapok értékei
+
     2–10-ig a kártyák annyit érnek, amennyi a névértékük.
     A Bubi, Dáma és Király értéke 10.
     Az ász értéke lehet 1 vagy 11, amelyik előnyösebb a kéz szempontjából.
